@@ -1,1 +1,1 @@
-{"name":"xuse","number_of_posts_per_page":7,"disqus_shortname":"","posts":[{"title":"Hello World!","date":"","tags":"Hello World","path":"test-page.html"}],"pages":[]}
+{"name":"xuse","number_of_posts_per_page":7,"disqus_shortname":"","posts":[{"title":"Hello World!","date":"","tags":"Hello World","path":"test-page.html","num":0,"type":"post","active":false}],"pages":[{"title":"First Page","date":"2015-03-13","tags":"","path":"f-page.html"}]}
